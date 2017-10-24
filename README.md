@@ -10,7 +10,7 @@
 
 ***
 
-**IMPORTANT:** I am not responsible for any problems if you use this plugin as I have built this plugin for my specific use case and not yours. I would accept PR's but won't provide Technical Support in any way. Thanks for understanding.
+**IMPORTANT:** This is not an offical Ogury plugin. I have built it so Ogury is more suitable for build systems rather than manually editing files. I am not responsible for any problems if you use this plugin. I would accept PR's but won't provide Technical Support in any way. Thanks for understanding.
 
 * Ogury version included: `2.1.14`.
 * Target Platform: `Android`.
@@ -23,4 +23,6 @@ I have **not** implimented the optional permissions of `GET_ACCOUNTS`, `INSTALL_
 
 ## Usage
 
-The Ogury Javascript functions are available to use in the app. Please see the Ogury documentation. There are no Typescript definitions available.
+The Ogury Javascript functions are available to use in the app. Please see the Ogury documentation for more information. Example:
+
+``` CPresage.adToServe(app.onAdEvent, app.onAdNotFound); ```

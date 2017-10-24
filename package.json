@@ -1,6 +1,6 @@
 {
   "name": "cordova-plugin-ogury",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A plugin to enable the Ogury advertisement service on Cordova Android",
   "cordova": {
     "id": "cordova-plugin-ogury",
@@ -24,7 +24,7 @@
   "author": "Phil Lennon",
   "engines": {
     "cordovaDependencies": {
-      "0.0.1": {
+      "1.0.1": {
         "cordova-android": ">=6.3.0"
       }
     }

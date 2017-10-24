@@ -23,4 +23,4 @@ I have **not** implimented the optional permissions of `GET_ACCOUNTS`, `INSTALL_
 
 ## Usage
 
-The Ogury Javascript functions are available to use in the app. There are no Typescript definitions available.
+The Ogury Javascript functions are available to use in the app. Please see the Ogury documentation. There are no Typescript definitions available.

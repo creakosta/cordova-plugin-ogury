@@ -24,7 +24,7 @@
   "author": "Phil Lennon",
   "engines": {
     "cordovaDependencies": {
-      "7.0.0": {
+      "0.0.1": {
         "cordova-android": ">=6.3.0"
       }
     }

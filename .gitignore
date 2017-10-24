@@ -16,3 +16,4 @@ Thumbs.db
 UserInterfaceState.xcuserstate
 .idea/
 .tmp/
+node_modules/

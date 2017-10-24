@@ -1,3 +1,5 @@
+var exec = require('cordova/exec');
+
 var CPresage = {
     adToServe: function(onAdEvent, onAdNotFound) {
 	cordova.exec(onAdEvent, onAdNotFound, 'CPresage', 'adToServe', [{}]);
@@ -15,3 +17,5 @@ var CPresage = {
 	cordova.exec(onAdEvent, onAdNotFound,'CPresage', 'canShow', [{}]);
     }
 };
+
+module.exports = CPresage;

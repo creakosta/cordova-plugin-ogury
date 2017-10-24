@@ -1,0 +1,32 @@
+{
+  "name": "cordova-plugin-ogury",
+  "version": "0.0.1",
+  "description": "A plugin to enable the Ogury advertisement service on Cordova Android",
+  "cordova": {
+    "id": "cordova-plugin-ogury",
+    "platforms": [
+      "android"
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/fephil/cordova-plugin-ogury"
+  },
+  "bugs": {
+    "url": "https://github.com/fephil/cordova-plugin-ogury/issues"
+  },
+  "keywords": [
+    "cordova",
+    "ogury",
+    "ecosystem:cordova",
+    "cordova-android"
+  ],
+  "author": "Phil Lennon",
+  "engines": {
+    "cordovaDependencies": {
+      "7.0.0": {
+        "cordova-android": ">=6.3.0"
+      }
+    }
+  }
+}

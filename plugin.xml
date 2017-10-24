@@ -7,10 +7,10 @@ xmlns:android="http://schemas.android.com/apk/res/android"
       version="0.0.1">
 
     <name>Ogury for Android</name>
-    <description>Ogury</description>
+    <description>A plugin to enable the Ogury advertisement service on Cordova Android</description>
     <author>Phil Lennon</author>
     <license></license>
-    <keywords>cordova,ogury</keywords>
+    <keywords>cordova,cordova-android,ogury</keywords>
     <repo>https://github.com/fephil/cordova-plugin-ogury.git</repo>
     <issue>https://github.com/fephil/cordova-plugin-ogury/issues</issue>
     <preference name="API_KEY" default="theApiKey" />

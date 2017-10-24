@@ -19,7 +19,7 @@ I have **not** implimented the optional permissions of `GET_ACCOUNTS`, `INSTALL_
 
 ## Installation
 
-``` cordova plugin add https://github.com/fephil/cordova-plugin-ogury.git --variable API_KEY="[YourApiKey]" ```
+``` cordova plugin add github:fephil/cordova-plugin-ogury --variable API_KEY="[YourApiKey]" ```
 
 ## Usage
 

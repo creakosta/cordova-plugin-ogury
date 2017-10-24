@@ -1,5 +1,8 @@
 # cordova-plugin-ogury
 
+[![npm](https://img.shields.io/npm/v/cordova-plugin-ogury.svg)](https://www.npmjs.com/package/cordova-plugin-ogury)
+[![Maintenance](https://img.shields.io/maintenance/yes/2017.svg)]()
+
 **A plugin to enable the Ogury advertisement service on Cordova Android**
 
 * Author: [Phil Lennon](https://frontendphil.com)
@@ -10,7 +13,7 @@
 
 ***
 
-**IMPORTANT:** This is not an official Ogury plugin. I have built it so Ogury is more suitable for build systems rather than manually editing files. I am not responsible for any problems if you use this plugin. I would accept PR's but won't provide Technical Support in any way. Thanks for understanding.
+**IMPORTANT:** This is not an official Ogury plugin. I have built it so Ogury is more suitable for build systems rather than manually editing files. I am not responsible for any problems or support if you use this plugin. I would accept PR's but will not provide Technical Support in any way. Thanks for understanding.
 
 * Ogury version included: `2.1.14`.
 * Target Platform: `Android`.
